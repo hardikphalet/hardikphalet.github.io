@@ -9,9 +9,8 @@ permissions:
     contents: write
 
 jobs:
-    runs-on: self-hosted
     deploy:
-        runs-on: ubuntu-20.04
+        runs-on: self-hosted
         concurrency:
             group: ${{ github.workflow }}-${{ github.ref }}
         steps:
