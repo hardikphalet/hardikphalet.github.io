@@ -21,11 +21,11 @@ So, here goes nothing:
 
 ### neo-post-ai-dystopia
 
-[AI, write an essay for me: A large-scale comparison of human-written versus ChatGPT-generated essays](https://arxiv.org/pdf/2304.14276)
+- [AI, write an essay for me: A large-scale comparison of human-written versus ChatGPT-generated essays](https://arxiv.org/pdf/2304.14276)
 
-[AI Slop](https://en.wikipedia.org/wiki/AI_slop?utm_source=chatgpt.com)
+- [AI Slop](https://en.wikipedia.org/wiki/AI_slop?utm_source=chatgpt.com)
 
-[Human-AI Collaboration or Academic Misconduct? Measuring AI Use in Student Writing Through Stylometric Evidence](https://arxiv.org/pdf/2505.08828)
+- [Human-AI Collaboration or Academic Misconduct? Measuring AI Use in Student Writing Through Stylometric Evidence](https://arxiv.org/pdf/2505.08828)
 
 The title of articles I have embedded here are in-line with my thoughts on the
 matter. I am a software engineer by profession, and contrary to popular thought
@@ -84,7 +84,7 @@ Is but a dream within a dream.
 Ironically, corporate would see this and fire their talent for AI.
 
 Unrelated interesting read:
-    - [Measuring Political Preferences in AI Systems – An Integrative Approach](https://arxiv.org/pdf/2503.10649)
+- [Measuring Political Preferences in AI Systems – An Integrative Approach](https://arxiv.org/pdf/2503.10649)
 
 ## Misc
 
@@ -92,9 +92,11 @@ Unrelated interesting read:
 It's not a book. Not a movie. Not a show. It's a game. The usual reaction I
 get from readers when I mention it is--yeugh, cringe, yucky. But hear me out,
 or at least hear them out:
-    - [Elden Ring](https://www.youtube.com/shorts/u9QjjBFOXpY)
-    - [ELDEN RING Lore for DUMMIES](https://www.youtube.com/watch?v=zicmFG_p1H8)
-    - [The lore of Elden Ring is mesmerising](https://www.youtube.com/watch?v=AR3b32G9o8s)
+- [Elden Ring](https://www.youtube.com/shorts/u9QjjBFOXpY)
+- [ELDEN RING Lore for DUMMIES](https://www.youtube.com/watch?v=zicmFG_p1H8)
+- [The lore of Elden Ring is mesmerising](https://www.youtube.com/watch?v=AR3b32G9o8s)
+
+
 Apparently, GRRM wrote 5000 years worth of story for the game. Where to read it?
 Nowhere! The game tells you nothing about it. So how does one go about reading it?
 You play the most challenging game in the world, and figure out the story.
