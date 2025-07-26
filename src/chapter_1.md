@@ -27,7 +27,7 @@ So, here goes nothing:
 
 - [Human-AI Collaboration or Academic Misconduct? Measuring AI Use in Student Writing Through Stylometric Evidence](https://arxiv.org/pdf/2505.08828)
 
-The title of articles I have embedded here are in-line with my thoughts on the
+The titles of articles I have embedded here are in-line with my thoughts on the
 matter. I am a software engineer by profession, and contrary to popular thought
 on the matter AI is not coming for my job. It cannot. It's a glorified
 auto-correct. Many tools today, e.g., ChatGPT, Claude, Gemini have an option
@@ -39,7 +39,7 @@ For the longest time, it couldn't tell how many r's are in the word strawberry.
 
 The more worrying part is, how quickly we gobble the shit it says to us.
 At work, we handle a lot of engineering problems that no person has ever faced
-before. No one has ever publicaly written about these things for the AI to
+before. No one has ever publicly written about these things for the AI to
 train on, and what happens then? AI crumbles. No better than a summer school
 intern. Most people don't get to see that part of AI. AI is an expert at producing slop,
 which most people find satisfactory. That's the real problem. AI is never at
@@ -81,14 +81,14 @@ All that we see or seem
 Is but a dream within a dream.
 ```
 
-Ironically, corporate would see this and fire their talent for AI.
+Ironically, corporations would see this and fire their talent for AI.
 
 Unrelated interesting read:
 - [Measuring Political Preferences in AI Systems – An Integrative Approach](https://arxiv.org/pdf/2503.10649)
 
 ## Misc
 
-### GRR Martin's latest work 🚨
+### GRR Martin's latest work 
 It's not a book. Not a movie. Not a show. It's a game. The usual reaction I
 get from readers when I mention it is--yeugh, cringe, yucky. But hear me out,
 or at least hear them out:
@@ -135,8 +135,8 @@ has compelled me to do so. For non-fiction fans, I would definitely recommend it
 Description from the internet: A half-goblin prince unexpectedly inherits the throne of an elvish empire and must navigate deadly court politics with only kindness as his weapon. Court intrigue fantasy that chooses compassion over grimdark cynicism, with incredibly satisfying character development.
 
 
-Review: 7/10. Micro-reading, if that's a thing is something I enjoy a lot.
-Especially, when I am in between places. Would recommend. Loved the court drama.
+Review: 7/10. Micro-reading, if that's a thing, is something I enjoy a lot.
+Especially, when I am in between places. Would recommend it. Loved the court drama.
 
 ### "Odyssey" by Homer
 Description from the internet: The Odyssey is one of two major epics of ancient Greek literature attributed to Homer. It is one of the oldest surviving works of literature and remains popular with modern audiences. Like the Iliad, the Odyssey is divided into 24 books.
@@ -156,7 +156,7 @@ Review: Heavy (and right) take on immigration. Decent acting. A lot of fun.
 
 Review: A retelling of the iconic. Falls flat. I don't remember much of the
 movie, and I said that while I was watching it. The actors did a really good
-job. Apple really didn't fall far away from the tree in case of Skarsgård.
+job. Apple really didn't fall far away from the tree in the case of Skarsgård.
 
 ### The Darjeeling Limited
 [The Darjeeling Limited](https://en.wikipedia.org/wiki/The_Darjeeling_Limited)
